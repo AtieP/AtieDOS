@@ -12,4 +12,10 @@ A 16 bit operating system made from enthusiasts to enthusiasts with love.
 About, chset, clear, echo, help, pause, prompt, restart, shutdown, stra, write
 
 # What's stra?
-Stra is an esoteric language created by SuperLeaf95 and me based on Brainfuck. It is used for string manupulation.
+Stra is an esoteric language created by SuperLeaf1995 and me based on Brainfuck. It is used for string manupulation.
+
+# How can I collaborate?
+Contact me on Discord. I am AteMellow-P#5173. My server: https://discord.gg/26Dfm5e
+
+# Acknowledgements
+Thanks to Midn this operating system works. He made the bootloader. And also I got inspired to made Stra thanks to SuperLeaf1995. Their Discord servers, respectively: https://discord.gg/BX6RBYx, https://discord.gg/ShmmEXP
