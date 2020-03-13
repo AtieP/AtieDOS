@@ -1,5 +1,5 @@
 # AtieDOS-2.10
-A 16 bit operating system made from enthusiasts to enthusiasts with love.
+A 16 bit operating system made by enthusiasts to enthusiasts with love.
 
 # How to use it
 1. Download NASM
