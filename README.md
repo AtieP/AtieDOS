@@ -2,11 +2,7 @@
 A 16 bit operating system made by enthusiasts to enthusiasts with love.
 
 # How to use it
-1. Download NASM
-2. Download QEMU
-3. Run the shell script of your os
-4. Emulate it using qemu-system-x86_64
-5. Done!
+The instructions are in /disk-images/README.md.
 
 # Commands
 About, chset, clear, echo, help, pause, prompt, restart, shutdown, stra, write
