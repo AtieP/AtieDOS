@@ -7,7 +7,11 @@ The instructions are in /disk-images/README.md.
 # Commands
 About, chset, clear, echo, help, pause, prompt, restart, shutdown, stra, write
 
-# What's stra?
+# Screenshot
+![AtieDOS 2.10 Screenshot](/atiedos2.10.png)
+
+
+# What's Stra?
 Stra is an esoteric language created by SuperLeaf1995 and me based on Brainfuck. It is used for string manupulation.
 A Stra example: +++.
 
