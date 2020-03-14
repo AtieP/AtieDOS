@@ -1,5 +1,6 @@
-# AtieDOS-2.10
+# AtieDOS
 A 16 bit operating system made by enthusiasts to enthusiasts with love.
+Current version: 2.10
 
 # How to use it
 The instructions are in /disk-images/README.md.
