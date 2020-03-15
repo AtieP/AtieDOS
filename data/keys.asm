@@ -1,4 +1,4 @@
-    KEYBOARD_PORT db 0x60
+KEYBOARD_PORT db 0x60
 
 
 KEY_A db 0x1E
