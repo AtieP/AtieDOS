@@ -9,6 +9,7 @@ Current version: 2.10
 
 Run the script file `build-linux.sh` at the root folder of this project.
 You may be required to run `chmod +x ./build-linux.sh` before running the actual script.
+**It is more reccomended to build it using Linux because we will add a filesystem and we can't find tools for Windows that do the disk job.**
 
 ## Windows
 
