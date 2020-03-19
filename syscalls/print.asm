@@ -75,7 +75,7 @@ os_print_hex:
 .d:
 
   mov bx, HEX_OUT
-  call bootloader_print
+  call os_print_string
 
   popa
   ret
