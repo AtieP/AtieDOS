@@ -47,7 +47,7 @@ A Stra example: +++.
 
 # How can I collaborate?
 
-Contact me on Discord. I am AteMellow-P#5173. My server: https://discord.gg/rGrpVam
+Contact me on Discord. I am Atie#5173. My server: https://discord.gg/rGrpVam
 
 # Acknowledgements
 
